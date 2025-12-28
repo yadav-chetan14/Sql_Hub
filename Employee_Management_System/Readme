@@ -1,0 +1,2 @@
+This project is a MySQL-based Employee Management System designed to manage employee details, departments, salary and bonus structure, leave records, and payroll information.
+It demonstrates the use of relational database design, primary and foreign keys, and analytical SQL queries.
